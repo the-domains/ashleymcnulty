@@ -1,0 +1,28 @@
+name: AshleyMcNulty
+favicon: null
+layout_spectrum: 0.9956669630482793
+typography_spectrum: 0.10247418750077486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6776556996628642
+  lightness: 0.9282804124522954
+  saturation: 0.8662601495161653
+  rhythmicContrast: 0.8639272239524871
+purpose: []
